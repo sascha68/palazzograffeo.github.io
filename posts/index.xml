@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Palazzo Graffeo</title>
+    <link>https://palazzograffeo.github.io/posts/</link>
+    <description>Recent content in Posts on Palazzo Graffeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 12:40:46 +0200</lastBuildDate><atom:link href="https://palazzograffeo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primo_post</title>
+      <link>https://palazzograffeo.github.io/posts/primo_post/</link>
+      <pubDate>Sun, 23 May 2021 12:40:46 +0200</pubDate>
+      
+      <guid>https://palazzograffeo.github.io/posts/primo_post/</guid>
+      <description>Un pò di contenuto.
+public static main(String[]args) { System.out.printl.(&amp;quot;Stampato da java&amp;quot;); } </description>
+    </item>
+    
+  </channel>
+</rss>
